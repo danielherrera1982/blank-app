@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as ptl
 import seaborn as sns
 import requests
-#import matplotlib.pyplot as plt
+
 
 # URL del web service
 url = "https://api.latam-ia.com/api/Measures" 
